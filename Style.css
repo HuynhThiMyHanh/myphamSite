@@ -1,0 +1,25 @@
+.header{
+    background: #a70208;
+}
+.position-relative   d-sm-block d-none{
+    max-height: 70px;
+    height:  calc( 70 * 100vw /1410 );
+}
+.img{
+    left:0;
+    width:1410;
+    height:70px;
+    
+}
+.sectionawe-section-4{
+    background-color: palevioletred;
+}
+.logoth{
+    display:flex;
+    justify-content:space-between;
+}
+.new{
+    display:flex;
+    justify-content:space-between;
+}
+
